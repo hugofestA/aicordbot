@@ -1,0 +1,25 @@
+{
+  "name": "aicordbot",
+  "version": "1.0.0",
+  "description": "An easy-to-use node.js Discord bot with Artifical Intelligence made with discord.io!",
+  "author": "hugofestA",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hugofestA/aicordbot"
+  },
+  "keywords": [
+    "discordbot",
+    "cordbot",
+    "aichatbot",
+    "aicordbot"
+  ],
+  "dependencies": {
+    "discord.io": "^1.8.1",
+    "fs": "0.0.2"
+  },
+  "license": "ISC"
+}

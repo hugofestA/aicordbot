@@ -1,0 +1,4 @@
+{
+    "Hello!": "Hello!", //For entry name, write the user input, for entry value, write the reply message
+    "What is the domain?": "http://example.com" //Links are working too, but images are in progress...
+}
