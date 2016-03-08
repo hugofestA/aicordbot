@@ -58,7 +58,6 @@ bot.on("message", function(user, userID, channelID, message, rawEvent) {
 	   }
     } else { //If other userchain IS started
         if (user == username){
-            //Send message from JSON
             sendMessages(channelID, [json[message]]);
             //Clearing userchain
             username = "";
