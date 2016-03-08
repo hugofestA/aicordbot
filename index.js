@@ -4,8 +4,8 @@ var fs = require('fs');
 
 //Creating our bot object
 var bot = new Discordbot({
-	email: "georgebot@nincsmail.com",
-	password: "partyarc123",
+	email: "",
+	password: "",
 	autorun: true
 });
 
