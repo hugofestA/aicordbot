@@ -26,7 +26,7 @@ var username = "";
 //Error event
 bot.on("err", function(error) {
     //Log error
-	console.log(error)
+	console.log(error);
 });
 
 //Ready event
